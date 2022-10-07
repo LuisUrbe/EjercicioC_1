@@ -1,6 +1,6 @@
 /******************************************************************************
  
- autor -> Luis Acosta / 30139928	
+ autor -> Luis Acosta	
  Carrera -> Ing. Informatica
  
 *******************************************************************************/
@@ -57,7 +57,7 @@ while(entrada == 1){ // Inicio del programa en un bucle
 	//Presentacion del autor
 
     cout << "#######################################"<<endl;
-    cout << "autor -> Luis Acosta / 30139928"<<endl;
+    cout << "autor -> Luis Acosta "<<endl;
     cout << "Carrera -> Ing. Informatica"<<endl;
     cout << "#####################################"<<endl;
 
